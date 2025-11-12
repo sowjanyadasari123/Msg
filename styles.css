@@ -3,4 +3,11 @@ body{
 }
 .title {
 	color: #5C6AC4;
+
+}
+@media (max-width: 600px) {
+  body{
+    font-size: 16px;
+    margin: 5px;
+  }
 }
